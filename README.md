@@ -31,3 +31,13 @@ El proyecto fue desarrollado originalmente como parte de un proyecto académico 
 ## Estado del proyecto
 
 El proyecto se encuentra funcional y actualmente está siendo revisado y mejorado para fortalecer su estructura, documentación y experiencia de usuario.
+## Autores
+
+Proyecto desarrollado en conjunto, de principio a fin, como trabajo académico de Ingeniería en Informática:
+
+- **Javier Molina** — [@JaviMolina1](https://github.com/JaviMolina1)
+- **Pablo Gonzalez** — [@PabloGonzalez23](https://github.com/PabloGonzalez23)
+
+Ambos participamos en todas las etapas del proyecto: diseño, desarrollo del backend con Django, interfaz (HTML, CSS y JavaScript) y pruebas.
+
+Repositorio original: [JaviMolina1/fiesta-helados](https://github.com/JaviMolina1/fiesta-helados)
